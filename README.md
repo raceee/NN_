@@ -4,4 +4,6 @@ a numpy implementation of a tradiditon neural network taken from this article: h
 Goals for this project are to add a numba CUDA gpu boost and a CuPy gpu boost to see the speed differences
 
 http://numba.pydata.org/
+
+
 https://cupy.chainer.org/
